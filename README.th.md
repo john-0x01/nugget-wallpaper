@@ -1,7 +1,6 @@
 # คู่มือวอลเปเปอร์เคลื่อนไหว Nugget
 
-ภาษา: [English](./README.md) | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | **ไทย**
-
+ภาษา: [English](./README.md) | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | **ไทย** | [Русский](./README.ru.md) | [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Español](./README.es.md) | [العربية](./README.ar.md) | [Deutsch](./README.de.md) | [Bahasa Indonesia](./README.id.md)
 หน้านี้มีเป้าหมายเดียว: ใช้ **Nugget** เพื่อใช้งานวอลเปเปอร์เคลื่อนไหวบน **iPhone / iPad** โดยไม่ต้องเจลเบรก
 
 ## ลิงก์สำคัญ

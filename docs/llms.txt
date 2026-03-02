@@ -8,12 +8,18 @@ A multilingual landing page for importing live wallpapers to iPhone and iPad wit
 - Nugget GitHub Repository: https://github.com/leminlimez/Nugget
 
 ## Supported Languages
-- Chinese (Simplified)
-- English
+- English (default)
 - Vietnamese
 - Japanese
 - Korean
 - Thai
+- Russian
+- French
+- Hindi
+- Spanish
+- Arabic
+- German
+- Indonesian
 
 ## Content Summary
 - Explains how to use Nugget to import animated wallpapers to Apple devices.
@@ -27,6 +33,13 @@ A multilingual landing page for importing live wallpapers to iPhone and iPad wit
 - /ja/
 - /ko/
 - /th/
+- /ru/
+- /fr/
+- /hi/
+- /es/
+- /ar/
+- /de/
+- /id/
 
 ## Notes
 - This site is an informational page and is not affiliated with Apple Inc.

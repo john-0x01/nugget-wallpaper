@@ -1,7 +1,6 @@
 # Nugget ライブ壁紙ガイド
 
-言語: [English](./README.md) | [Tiếng Việt](./README.vi.md) | **日本語** | [한국어](./README.ko.md) | [ไทย](./README.th.md)
-
+言語: [English](./README.md) | [Tiếng Việt](./README.vi.md) | **日本語** | [한국어](./README.ko.md) | [ไทย](./README.th.md) | [Русский](./README.ru.md) | [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Español](./README.es.md) | [العربية](./README.ar.md) | [Deutsch](./README.de.md) | [Bahasa Indonesia](./README.id.md)
 このページの目的は 1 つです。**Nugget** を使って **iPhone / iPad** でライブ壁紙を脱獄なしで利用することです。
 
 ## クイックリンク

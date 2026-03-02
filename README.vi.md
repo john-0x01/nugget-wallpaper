@@ -1,7 +1,6 @@
 # Hướng Dẫn Hình Nền Động Nugget
 
-Ngôn ngữ: [English](./README.md) | **Tiếng Việt** | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [ไทย](./README.th.md)
-
+Ngôn ngữ: [English](./README.md) | **Tiếng Việt** | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [ไทย](./README.th.md) | [Русский](./README.ru.md) | [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Español](./README.es.md) | [العربية](./README.ar.md) | [Deutsch](./README.de.md) | [Bahasa Indonesia](./README.id.md)
 Trang này tập trung vào một mục tiêu: dùng **Nugget** để trải nghiệm hình nền động trên **iPhone / iPad** mà không cần jailbreak.
 
 ## Liên Kết Nhanh

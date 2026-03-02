@@ -1,6 +1,6 @@
 # Nugget Live Wallpaper Guide
 
-Language: **English (default)** | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [ไทย](./README.th.md)
+Language: **English (default)** | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [ไทย](./README.th.md) | [Русский](./README.ru.md) | [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Español](./README.es.md) | [العربية](./README.ar.md) | [Deutsch](./README.de.md) | [Bahasa Indonesia](./README.id.md)
 
 This page focuses on one goal: using **Nugget** to enjoy live wallpapers on **iPhone / iPad** without jailbreak.
 

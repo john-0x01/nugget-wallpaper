@@ -1,7 +1,6 @@
 # Nugget 라이브 배경화면 가이드
 
-언어: [English](./README.md) | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | **한국어** | [ไทย](./README.th.md)
-
+언어: [English](./README.md) | [Tiếng Việt](./README.vi.md) | [日本語](./README.ja.md) | **한국어** | [ไทย](./README.th.md) | [Русский](./README.ru.md) | [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Español](./README.es.md) | [العربية](./README.ar.md) | [Deutsch](./README.de.md) | [Bahasa Indonesia](./README.id.md)
 이 페이지의 목적은 하나입니다. **Nugget**을 사용해 **iPhone / iPad**에서 탈옥 없이 라이브 배경화면을 적용하는 것입니다.
 
 ## 빠른 링크
