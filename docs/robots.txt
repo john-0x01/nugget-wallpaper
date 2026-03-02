@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://john-0x01.github.io/nugget-wallpaper/sitemap.xml

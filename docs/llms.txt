@@ -1,0 +1,32 @@
+# Nugget Wallpaper
+
+A multilingual landing page for importing live wallpapers to iPhone and iPad with Nugget, without jailbreak.
+
+## Primary Links
+- Website: https://john-0x01.github.io/nugget-wallpaper/
+- Wallpaper Library: https://wallpaper.nugget.host
+- Nugget GitHub Repository: https://github.com/leminlimez/Nugget
+
+## Supported Languages
+- Chinese (Simplified)
+- English
+- Vietnamese
+- Japanese
+- Korean
+- Thai
+
+## Content Summary
+- Explains how to use Nugget to import animated wallpapers to Apple devices.
+- Highlights no-jailbreak workflow.
+- Includes feature overview, quick steps, and FAQ.
+
+## Crawl Targets
+- /
+- /en/
+- /vi/
+- /ja/
+- /ko/
+- /th/
+
+## Notes
+- This site is an informational page and is not affiliated with Apple Inc.

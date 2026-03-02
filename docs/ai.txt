@@ -1,0 +1,14 @@
+site: https://john-0x01.github.io/nugget-wallpaper/
+name: Nugget Wallpaper
+summary: Multilingual landing pages for using Nugget to import live wallpapers to iPhone and iPad without jailbreak.
+language: en,vi,ja,ko,th
+links:
+- https://wallpaper.nugget.host
+- https://github.com/leminlimez/Nugget
+crawl:
+- /
+- /en/
+- /vi/
+- /ja/
+- /ko/
+- /th/

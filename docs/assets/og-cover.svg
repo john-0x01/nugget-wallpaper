@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6F0EA"/>
+      <stop offset="1" stop-color="#FFE1C8"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="320" y1="418" x2="640" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E9F9C"/>
+      <stop offset="1" stop-color="#1DB7B3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="74" y="66" width="1052" height="498" rx="34" fill="white" fill-opacity="0.86"/>
+  <circle cx="150" cy="120" r="16" fill="#0E9F9C"/>
+  <text x="185" y="130" fill="#0F1720" font-family="Arial, sans-serif" font-size="36" font-weight="700">Nugget Live Wallpaper</text>
+  <text x="135" y="232" fill="#0F1720" font-family="Arial, sans-serif" font-size="64" font-weight="700">Beautify iPhone &amp; iPad</text>
+  <text x="135" y="288" fill="#0F1720" font-family="Arial, sans-serif" font-size="64" font-weight="700">No Jailbreak Needed</text>
+  <text x="135" y="350" fill="#5E6B79" font-family="Arial, sans-serif" font-size="32">Import animated wallpapers with Nugget in minutes.</text>
+  <rect x="135" y="386" width="334" height="64" rx="32" fill="url(#btn)"/>
+  <text x="187" y="428" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Open Wallpaper Library</text>
+  <rect x="501" y="386" width="278" height="64" rx="32" fill="white" stroke="#D9E1EA" stroke-width="2"/>
+  <text x="565" y="428" fill="#0F1720" font-family="Arial, sans-serif" font-size="30" font-weight="700">View on GitHub</text>
+</svg>
