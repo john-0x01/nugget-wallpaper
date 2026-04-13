@@ -6,7 +6,7 @@ This page focuses on one goal: using **Nugget** to enjoy live wallpapers on **iP
 
 ## Quick Links
 - Landing page: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Wallpaper library: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Motion Wallpaper library: [https://mwallx.com](https://mwallx.com)
 - Nugget repository: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## What Is Nugget?
@@ -15,7 +15,7 @@ Nugget is a tool workflow for Apple device customization, including importing li
 This page documents a no-jailbreak path for users who want dynamic wallpaper effects without changing low-level system permissions.
 
 ## What Is the Wallpaper Library?
-The wallpaper library is available at [wallpaper.nugget.host](https://wallpaper.nugget.host).  
+The Motion Wallpaper is available at [mwallx.com](https://mwallx.com).  
 It provides downloadable live wallpaper resources you can use with Nugget.
 
 ## Quick Start
@@ -31,8 +31,8 @@ No. This guide is specifically for a no-jailbreak Nugget workflow.
 It mainly targets iPhone and iPad (iOS / iPadOS).  
 Check the Nugget repository for detailed compatibility updates.
 
-### 3. Is the wallpaper library the same as Nugget?
-No. The wallpaper library provides resources, while Nugget provides the tool and setup workflow.
+### 3. Is the Motion Wallpaper the same as Nugget?
+No. The Motion Wallpaper provides resources, while Nugget provides the tool and setup workflow.
 
 ## Note
-This is an informational navigation page for Nugget and wallpaper library resources. It is not affiliated with Apple Inc.
+This is an informational navigation page for Nugget and Motion Wallpaper resources. It is not affiliated with Apple Inc.

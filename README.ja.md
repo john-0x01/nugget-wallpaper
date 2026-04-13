@@ -5,7 +5,7 @@
 
 ## クイックリンク
 - ランディングページ: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- 壁紙ライブラリ: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- 壁紙ライブラリ: [https://mwallx.com](https://mwallx.com)
 - Nugget リポジトリ: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Nugget とは？
@@ -14,7 +14,7 @@ Nugget は Apple デバイスのカスタマイズ向けツールワークフロ
 このページでは、低レベル権限を変更せずにライブ壁紙を使いたいユーザー向けの非脱獄手順を案内します。
 
 ## 壁紙ライブラリとは？
-壁紙ライブラリは [wallpaper.nugget.host](https://wallpaper.nugget.host) で公開されています。  
+壁紙ライブラリは [mwallx.com](https://mwallx.com) で公開されています。  
 Nugget と組み合わせて使えるライブ壁紙素材をダウンロードできます。
 
 ## クイックスタート

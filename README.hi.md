@@ -6,14 +6,14 @@
 
 ## त्वरित लिंक
 - पेज: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- वॉलपेपर लाइब्रेरी: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- वॉलपेपर लाइब्रेरी: [https://mwallx.com](https://mwallx.com)
 - Nugget रिपॉजिटरी: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Nugget क्या है?
 Nugget Apple डिवाइस कस्टमाइज़ेशन के लिए एक वर्कफ़्लो है, जिसमें iPhone और iPad पर लाइव वॉलपेपर इम्पोर्ट करना शामिल है।
 
 ## वॉलपेपर लाइब्रेरी क्या है?
-[wallpaper.nugget.host](https://wallpaper.nugget.host) से आप लाइव वॉलपेपर रिसोर्स डाउनलोड कर सकते हैं और Nugget के साथ उपयोग कर सकते हैं।
+[mwallx.com](https://mwallx.com) से आप लाइव वॉलपेपर रिसोर्स डाउनलोड कर सकते हैं और Nugget के साथ उपयोग कर सकते हैं।
 
 ## जल्दी शुरू करें
 1. लाइब्रेरी से लाइव वॉलपेपर डाउनलोड करें।

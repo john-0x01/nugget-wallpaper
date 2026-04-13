@@ -6,14 +6,14 @@ Cette page a un objectif : utiliser **Nugget** pour profiter des fonds d'écran 
 
 ## Liens rapides
 - Page : [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Bibliothèque : [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Bibliothèque : [https://mwallx.com](https://mwallx.com)
 - Dépôt Nugget : [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Qu'est-ce que Nugget ?
 Nugget est un workflow de personnalisation pour appareils Apple, incluant l'import de fonds d'écran animés sur iPhone et iPad.
 
 ## Qu'est-ce que la bibliothèque de wallpapers ?
-La bibliothèque [wallpaper.nugget.host](https://wallpaper.nugget.host) fournit des ressources téléchargeables utilisables avec Nugget.
+La bibliothèque [mwallx.com](https://mwallx.com) fournit des ressources téléchargeables utilisables avec Nugget.
 
 ## Démarrage rapide
 1. Choisissez et téléchargez un wallpaper animé.

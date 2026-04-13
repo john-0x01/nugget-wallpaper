@@ -5,7 +5,7 @@
 
 ## 빠른 링크
 - 랜딩 페이지: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- 배경화면 라이브러리: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- 배경화면 라이브러리: [https://mwallx.com](https://mwallx.com)
 - Nugget 저장소: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Nugget이란?
@@ -14,7 +14,7 @@ Nugget은 Apple 기기 커스터마이징을 위한 도구 워크플로우이며
 이 페이지는 시스템 저수준 권한 변경 없이 라이브 배경화면을 사용하려는 사용자를 위한 비탈옥 경로를 안내합니다.
 
 ## 배경화면 라이브러리란?
-배경화면 라이브러리는 [wallpaper.nugget.host](https://wallpaper.nugget.host)에서 제공됩니다.  
+배경화면 라이브러리는 [mwallx.com](https://mwallx.com)에서 제공됩니다.  
 Nugget과 함께 사용할 수 있는 라이브 배경화면 리소스를 다운로드할 수 있습니다.
 
 ## 빠른 시작

@@ -5,7 +5,7 @@ Trang này tập trung vào một mục tiêu: dùng **Nugget** để trải ngh
 
 ## Liên Kết Nhanh
 - Trang chính: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Thư viện wallpaper: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Thư viện wallpaper: [https://mwallx.com](https://mwallx.com)
 - Kho Nugget: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Nugget Là Gì?
@@ -14,7 +14,7 @@ Nugget là một quy trình công cụ để tùy biến thiết bị Apple, bao
 Trang này mô tả cách dùng không jailbreak cho người muốn hiệu ứng hình nền động mà không thay đổi quyền hệ thống ở mức thấp.
 
 ## Thư Viện Wallpaper Là Gì?
-Thư viện wallpaper ở [wallpaper.nugget.host](https://wallpaper.nugget.host).  
+Thư viện wallpaper ở [mwallx.com](https://mwallx.com).  
 Trang này cung cấp tài nguyên hình nền động có thể tải xuống để dùng cùng Nugget.
 
 ## Bắt Đầu Nhanh

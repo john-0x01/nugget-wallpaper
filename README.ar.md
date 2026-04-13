@@ -6,14 +6,14 @@
 
 ## روابط سريعة
 - الصفحة: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- مكتبة الخلفيات: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- مكتبة الخلفيات: [https://mwallx.com](https://mwallx.com)
 - مستودع Nugget: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## ما هو Nugget؟
 Nugget هو سير عمل لتخصيص أجهزة Apple، ويشمل استيراد الخلفيات المتحركة إلى iPhone و iPad.
 
 ## ما هي مكتبة الخلفيات؟
-تتوفر المكتبة على [wallpaper.nugget.host](https://wallpaper.nugget.host)، وتوفر موارد قابلة للتنزيل لاستخدامها مع Nugget.
+تتوفر المكتبة على [mwallx.com](https://mwallx.com)، وتوفر موارد قابلة للتنزيل لاستخدامها مع Nugget.
 
 ## بدء سريع
 1. اختر خلفية متحركة من المكتبة وقم بتنزيلها.

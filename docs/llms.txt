@@ -4,7 +4,7 @@ A multilingual landing page for importing live wallpapers to iPhone and iPad wit
 
 ## Primary Links
 - Website: https://john-0x01.github.io/nugget-wallpaper/
-- Wallpaper Library: https://wallpaper.nugget.host
+- Motion Motion Wallpaper library: https://mwallx.com
 - Nugget GitHub Repository: https://github.com/leminlimez/Nugget
 
 ## Supported Languages

@@ -12,10 +12,10 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
   <rect x="74" y="66" width="1052" height="498" rx="34" fill="white" fill-opacity="0.86"/>
   <circle cx="150" cy="120" r="16" fill="#0E9F9C"/>
-  <text x="185" y="130" fill="#0F1720" font-family="Arial, sans-serif" font-size="36" font-weight="700">Nugget Live Wallpaper</text>
+  <text x="185" y="130" fill="#0F1720" font-family="Arial, sans-serif" font-size="36" font-weight="700">Motion Wallpaper</text>
   <text x="135" y="232" fill="#0F1720" font-family="Arial, sans-serif" font-size="64" font-weight="700">Beautify iPhone &amp; iPad</text>
   <text x="135" y="288" fill="#0F1720" font-family="Arial, sans-serif" font-size="64" font-weight="700">No Jailbreak Needed</text>
-  <text x="135" y="350" fill="#5E6B79" font-family="Arial, sans-serif" font-size="32">Import animated wallpapers with Nugget in minutes.</text>
+  <text x="135" y="350" fill="#5E6B79" font-family="Arial, sans-serif" font-size="32">Import motion wallpapers with Nugget in minutes.</text>
   <rect x="135" y="386" width="334" height="64" rx="32" fill="url(#btn)"/>
   <text x="187" y="428" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Open Wallpaper Library</text>
   <rect x="501" y="386" width="278" height="64" rx="32" fill="white" stroke="#D9E1EA" stroke-width="2"/>

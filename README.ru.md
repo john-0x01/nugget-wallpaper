@@ -6,14 +6,14 @@
 
 ## Быстрые ссылки
 - Страница: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Библиотека обоев: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Библиотека обоев: [https://mwallx.com](https://mwallx.com)
 - Репозиторий Nugget: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Что такое Nugget
 Nugget — это рабочий процесс для кастомизации устройств Apple, включая импорт живых обоев на iPhone и iPad.
 
 ## Что такое библиотека обоев
-Библиотека доступна на [wallpaper.nugget.host](https://wallpaper.nugget.host) и содержит ресурсы живых обоев для использования с Nugget.
+Библиотека доступна на [mwallx.com](https://mwallx.com) и содержит ресурсы живых обоев для использования с Nugget.
 
 ## Быстрый старт
 1. Выберите и скачайте живые обои в библиотеке.

@@ -3,7 +3,7 @@ name: Nugget Wallpaper
 summary: Multilingual landing pages for using Nugget to import live wallpapers to iPhone and iPad without jailbreak.
 language: en,vi,ja,ko,th,ru,fr,hi,es,ar,de,id
 links:
-- https://wallpaper.nugget.host
+- https://mwallx.com
 - https://github.com/leminlimez/Nugget
 crawl:
 - /

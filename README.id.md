@@ -6,14 +6,14 @@ Halaman ini fokus pada satu tujuan: menggunakan **Nugget** untuk live wallpaper 
 
 ## Tautan Cepat
 - Halaman: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Library wallpaper: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Library wallpaper: [https://mwallx.com](https://mwallx.com)
 - Repository Nugget: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Apa itu Nugget?
 Nugget adalah workflow untuk kustomisasi perangkat Apple, termasuk impor live wallpaper ke iPhone dan iPad.
 
 ## Apa itu library wallpaper?
-Library di [wallpaper.nugget.host](https://wallpaper.nugget.host) menyediakan resource live wallpaper yang dapat diunduh untuk digunakan dengan Nugget.
+Library di [mwallx.com](https://mwallx.com) menyediakan resource live wallpaper yang dapat diunduh untuk digunakan dengan Nugget.
 
 ## Mulai Cepat
 1. Pilih dan unduh live wallpaper dari library.

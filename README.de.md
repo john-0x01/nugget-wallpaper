@@ -6,14 +6,14 @@ Diese Seite hat ein Ziel: **Nugget** nutzen, um Live-Wallpaper auf **iPhone / iP
 
 ## Schnelllinks
 - Seite: [https://john-0x01.github.io/nugget-wallpaper/](https://john-0x01.github.io/nugget-wallpaper/)
-- Wallpaper-Bibliothek: [https://wallpaper.nugget.host](https://wallpaper.nugget.host)
+- Wallpaper-Bibliothek: [https://mwallx.com](https://mwallx.com)
 - Nugget-Repository: [https://github.com/leminlimez/Nugget](https://github.com/leminlimez/Nugget)
 
 ## Was ist Nugget?
 Nugget ist ein Workflow zur Anpassung von Apple-Geräten, inklusive Import von Live-Wallpapern auf iPhone und iPad.
 
 ## Was ist die Wallpaper-Bibliothek?
-Die Bibliothek unter [wallpaper.nugget.host](https://wallpaper.nugget.host) bietet herunterladbare Live-Wallpaper-Ressourcen für Nugget.
+Die Bibliothek unter [mwallx.com](https://mwallx.com) bietet herunterladbare Live-Wallpaper-Ressourcen für Nugget.
 
 ## Schnellstart
 1. Wähle ein Live-Wallpaper aus der Bibliothek und lade es herunter.
