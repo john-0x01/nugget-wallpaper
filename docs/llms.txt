@@ -1,10 +1,11 @@
 # Nugget Wallpaper
 
-A multilingual landing page for importing live wallpapers to iPhone and iPad with Nugget, without jailbreak.
+A multilingual landing page for importing motion Wallpapers to iPhone and iPad with Nugget, without jailbreak.
 
 ## Primary Links
 - Website: https://john-0x01.github.io/nugget-wallpaper/
-- Motion Motion Wallpaper library: https://mwallx.com
+- Nugget Website: https://nugget.host
+- Motion Wallpaper library: https://mwallx.com
 - Nugget GitHub Repository: https://github.com/leminlimez/Nugget
 
 ## Supported Languages
