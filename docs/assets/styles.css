@@ -319,6 +319,340 @@ h1 {
   transform: translateY(0);
 }
 
+/* 新增：动态壁纸画廊与手风琴折叠样式 */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.wallpaper-card {
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: var(--radius);
+  padding: 0.8rem;
+  box-shadow: 0 8px 32px rgba(10, 29, 44, 0.05);
+  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), box-shadow 0.4s ease, border-color 0.4s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.wallpaper-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  padding: 1.5px;
+  background: linear-gradient(135deg, transparent 40%, rgba(14, 159, 156, 0.4), rgba(255, 141, 71, 0.4), transparent 60%);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.wallpaper-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  border-color: rgba(14, 159, 156, 0.3);
+  box-shadow: 0 20px 40px rgba(14, 159, 156, 0.12), 0 0 25px rgba(255, 141, 71, 0.05);
+}
+
+.wallpaper-card:hover::before {
+  opacity: 1;
+}
+
+.wallpaper-preview-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #111;
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.6);
+}
+
+.wallpaper-preview-flow {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  transition: filter 0.4s ease;
+}
+
+/* 4种炫酷的 CSS 渐变动画 */
+/* 1. Fluid Aurora */
+.w-fluid {
+  background: linear-gradient(125deg, #0f1720, #0a3d3c, #0e9f9c, #ff8d47, #0f1720);
+  background-size: 400% 400%;
+  animation: waveMotion 12s ease infinite;
+}
+
+/* 2. Neon Cyberpunk */
+.w-neon {
+  background: linear-gradient(135deg, #0b0f19, #250938, #a81760, #1793a8, #0b0f19);
+  background-size: 400% 400%;
+  animation: waveMotion 10s ease infinite;
+}
+
+/* 3. Sunset Glow */
+.w-sunset {
+  background: linear-gradient(145deg, #2b1008, #8c2e0b, #ff7e47, #ffd077, #2b1008);
+  background-size: 400% 400%;
+  animation: waveMotion 15s ease infinite;
+}
+
+/* 4. Cosmic Nebula */
+.w-cosmic {
+  background: linear-gradient(135deg, #05040a, #1a083a, #4e148c, #85148c, #05040a);
+  background-size: 400% 400%;
+  animation: waveMotion 14s ease infinite;
+}
+
+@keyframes waveMotion {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 模拟动态星云粒子或光晕效果 */
+.wallpaper-preview-flow::after {
+  content: '';
+  position: absolute;
+  inset: -50%;
+  background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, transparent 60%);
+  animation: spinSlow 20s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes spinSlow {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* 悬停时动画加速，模拟“激活”状态 */
+.wallpaper-card:hover .wallpaper-preview-flow {
+  animation-duration: 4s;
+  filter: contrast(1.15) brightness(1.08);
+}
+
+.wallpaper-info {
+  padding: 0.2rem;
+  text-align: center;
+}
+
+.wallpaper-info h4 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.wallpaper-info p {
+  margin: 0.2rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.btn-download-sim {
+  margin-top: auto;
+  font-size: 0.82rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: 99px;
+  background: var(--surface-strong);
+  border: 1px solid var(--line);
+  color: var(--text);
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.btn-download-sim:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+/* 详细步骤与教程样式 */
+.guide-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.guide-step {
+  display: flex;
+  gap: 1.2rem;
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: 0 4px 20px rgba(10, 29, 44, 0.02);
+  transition: transform 0.2s;
+}
+
+.guide-step:hover {
+  transform: translateX(4px);
+}
+
+.guide-step-num {
+  width: 2.8rem;
+  height: 2.8rem;
+  background: linear-gradient(135deg, var(--primary), #1db7b3);
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  box-shadow: 0 6px 15px rgba(14, 159, 156, 0.25);
+}
+
+.guide-step-body h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--text);
+}
+
+.guide-step-body p {
+  margin: 0.5rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.guide-step-body ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.2rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.guide-step-body ul li {
+  margin-top: 0.25rem;
+}
+
+/* FAQ 手风琴折叠样式 */
+.accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.accordion-item {
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 14px;
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.accordion-item.active {
+  border-color: rgba(14, 159, 156, 0.3);
+  box-shadow: 0 4px 20px rgba(14, 159, 156, 0.05);
+}
+
+.accordion-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+  border: none;
+  padding: 1.1rem 1.3rem;
+  text-align: left;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--text);
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.2s;
+}
+
+.accordion-header:hover {
+  background-color: rgba(14, 159, 156, 0.03);
+}
+
+.accordion-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.accordion-icon::before,
+.accordion-icon::after {
+  content: '';
+  position: absolute;
+  background-color: var(--muted);
+  transition: background-color 0.2s;
+}
+
+.accordion-icon::before {
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  height: 2px;
+  transform: translateY(-50%);
+}
+
+.accordion-icon::after {
+  left: 50%;
+  top: 10%;
+  bottom: 10%;
+  width: 2px;
+  transform: translateX(-50%);
+}
+
+.accordion-item.active .accordion-icon {
+  transform: rotate(135deg);
+}
+
+.accordion-item.active .accordion-icon::before,
+.accordion-item.active .accordion-icon::after {
+  background-color: var(--primary);
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.accordion-inner {
+  padding: 0 1.3rem 1.1rem 1.3rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.accordion-inner p {
+  margin: 0 0 0.5rem 0;
+}
+.accordion-inner p:last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 980px) {
   .hero {
     grid-template-columns: 1fr;
@@ -330,6 +664,10 @@ h1 {
 
   .steps {
     grid-template-columns: 1fr;
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -352,6 +690,10 @@ h1 {
   }
 
   .features {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-grid {
     grid-template-columns: 1fr;
   }
 }

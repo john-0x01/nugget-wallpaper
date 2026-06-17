@@ -41,4 +41,48 @@
   elements.forEach(function (element) {
     observer.observe(element);
   });
+
+  // FAQ 手风琴交互逻辑
+  var accordionHeaders = document.querySelectorAll('.accordion-header');
+  accordionHeaders.forEach(function (header) {
+    header.addEventListener('click', function () {
+      var item = header.parentElement;
+      var content = item.querySelector('.accordion-content');
+      var isActive = item.classList.contains('active');
+
+      // 收起其他所有项
+      document.querySelectorAll('.accordion-item').forEach(function (otherItem) {
+        if (otherItem !== item && otherItem.classList.contains('active')) {
+          otherItem.classList.remove('active');
+          otherItem.querySelector('.accordion-content').style.maxHeight = null;
+          otherItem.querySelector('.accordion-header').setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      // 切换当前项
+      if (isActive) {
+        item.classList.remove('active');
+        content.style.maxHeight = null;
+        header.setAttribute('aria-expanded', 'false');
+      } else {
+        item.classList.add('active');
+        content.style.maxHeight = content.scrollHeight + 'px';
+        header.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  // 视频悬停播放控制 (为后续用户替换为真实 mp4 视频做准备)
+  var wallpaperCards = document.querySelectorAll('.wallpaper-card');
+  wallpaperCards.forEach(function (card) {
+    var video = card.querySelector('video');
+    if (video) {
+      card.addEventListener('mouseenter', function () {
+        video.play().catch(function() {});
+      });
+      card.addEventListener('mouseleave', function () {
+        video.pause();
+      });
+    }
+  });
 })();
